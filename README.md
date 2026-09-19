@@ -238,9 +238,6 @@ font-size:18px;
 عن التطبيق▼
 </button>
 
-خدماتنا▼
-</button>
-
 <button onclick="window.location.href='https://mohamedmadoui5195.github.io/Alislamiah-services/'" style="
 width:100%;
 padding:12px 30px;
@@ -251,6 +248,9 @@ text-align:right;
 cursor:pointer;
 font-size:18px;
 ">
+خدماتنا▼
+</button>
+
 
 <!-- حقوق النشر -->
 <div style="
