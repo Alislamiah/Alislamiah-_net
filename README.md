@@ -369,6 +369,20 @@ flex:none;
 الخلفية الداكنة 
 </button>
 
+<button onclick="window.location.href='https://mohamedmadoui5195.github.io/Alislamiah465/'"
+style="
+min-width:100px;
+background:none;
+border:none;
+color:white;
+font-size:18px;
+cursor:pointer;
+flex:none;
+">
+
+Alislamiah 465
+
+</button>
 
 <button onclick="window.location.href='teleport.html'"
 style="
