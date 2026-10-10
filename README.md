@@ -604,8 +604,8 @@ window.scrollTo({top:0,behavior:'smooth'})
 ⭐قيمنا
 </button>
 
-<button onclick="window.location.href='video.html'">
-🎥 فيديو
+<button onclick="window.location.href='https://mohamedmadoui5195.github.io/Alislamiah465/'">
+Alislamiah 465
 </button>
 
 </div>
