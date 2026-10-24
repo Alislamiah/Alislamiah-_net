@@ -238,7 +238,7 @@ font-size:18px;
 عن التطبيق▼
 </button>
 
-<button onclick="window.location.href='https://mohamedmadoui5195.github.io/Alislamiah-services/'" style="
+<button onclick="window.location.href='https://Alislamiah.github.io/Alislamiah-services/'" style="
 width:100%;
 padding:12px 30px;
 background:none;
@@ -369,7 +369,7 @@ flex:none;
 الخلفية الداكنة 
 </button>
 
-<button onclick="window.location.href='https://mohamedmadoui5195.github.io/Alislamiah465/'"
+<button onclick="window.location.href='https://Alislamiah.github.io/Alislamiah465/'"
 style="
 min-width:100px;
 background:none;
@@ -618,7 +618,7 @@ window.scrollTo({top:0,behavior:'smooth'})
 ⭐قيمنا
 </button>
 
-<button onclick="window.location.href='https://mohamedmadoui5195.github.io/Alislamiah465/'">
+<button onclick="window.location.href='https://Alislamiah.github.io/Alislamiah465/'">
 Alislamiah 465
 </button>
 
